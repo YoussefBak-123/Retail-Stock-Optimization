@@ -1,0 +1,7 @@
+pandas
+torch
+seaborn
+sklearn
+tensorflow
+numpy
+xgboost
